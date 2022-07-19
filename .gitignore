@@ -1,9 +1,8 @@
 #pragma once
 #include <cstdint>
 
-// 2022-07-13 19:10:49.957009100 UTC
 
-namespace hazedumper {
+namespace penis {
 constexpr ::std::int64_t timestamp = 1657739449;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
